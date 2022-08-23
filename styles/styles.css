@@ -815,14 +815,14 @@ section {
   font-size: 1.3rem;
 }
 
-.contact-content-con .left-contact .contact-icon {
+.contact-icon {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   margin-top: 2rem;
 }
 
-.contact-content-con .left-contact .contact-icon a {
+.contact-icon a {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -843,15 +843,15 @@ section {
   transition: all 0.4s ease-in-out;
 }
 
-.contact-content-con .left-contact .contact-icon a:hover {
+.contact-icon a:hover {
   background-color: var(--color-secondary);
 }
 
-.contact-content-con .left-contact .contact-icon a:hover i {
+.contact-icon a:hover i {
   color: var(--color-primary);
 }
 
-.contact-content-con .left-contact .contact-icon a i {
+.contact-icon a i {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
